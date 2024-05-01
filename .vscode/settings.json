@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3c2e6526-3fd3-4743-96d7-05ee5db0f300/resourceGroups/walls-kato-test2_group/providers/Microsoft.Web/sites/walls-kato-test2",
+    "appService.deploySubpath": "."
+}
